@@ -1,0 +1,16 @@
+{
+  "export_version": 1,
+  "format": "wifilt-git-1",
+  "exported_at": "2026-10-14T06:12:06.226Z",
+  "stores": {
+    "logs": [
+      {"contestName":"20261007-TESTOVACI","createdAtUtc":"2026-10-07T06:10:58.370Z","cwAbbrev":true,"defaultExchange":"","id":"2026-10-07-20261007TESTOVACI","myLocator":"JO60UB","nextQsoNumber":3,"stationCall":"OK3KW","updatedAtUtc":"2026-10-07T06:16:55.829Z"}
+    ],
+    "qso": [
+      {"bandClass":"HF","call":"K3LR","createdAtUtc":"2026-10-07T06:11:57.837Z","dxcc":{"azimuthDeg":310,"continent":"NA","country":"USA","cqZone":5,"ituZone":6,"latitude":37.5,"longitude":-98,"mainPrefix":"K","qrbKm":8210,"utcOffset":5},"exchangeReceived":"","frequencyDisplay":"14.023.32","frequencyHz":14023320,"id":"2a1230f9-e311-4b3f-8809-394537b517e1:1","locatorReceived":"","logId":"2026-10-07-20261007TESTOVACI","mode":"CW","note":"","qsoDateUtc":"2026-10-07","qsoNumber":1,"rstReceived":"599","rstSent":"599","source_device_id":"2a1230f9-e311-4b3f-8809-394537b517e1","source_seq":1,"timeOnUtc":"06:11","timestampUtc":"2026-10-07T06:11:57.836Z","trx":"IC-7300"},
+      {"bandClass":"HF","call":"K1TTT","createdAtUtc":"2026-10-07T06:16:55.826Z","dxcc":{"azimuthDeg":310,"continent":"NA","country":"USA","cqZone":5,"ituZone":6,"latitude":37.5,"longitude":-98,"mainPrefix":"K","qrbKm":8210,"utcOffset":5},"exchangeReceived":"VT","frequencyDisplay":"14.023.84","frequencyHz":14023840,"id":"2a1230f9-e311-4b3f-8809-394537b517e1:2","locatorReceived":"","logId":"2026-10-07-20261007TESTOVACI","mode":"CW","note":"","qsoDateUtc":"2026-10-07","qsoNumber":2,"rstReceived":"599","rstSent":"599","source_device_id":"2a1230f9-e311-4b3f-8809-394537b517e1","source_seq":2,"timeOnUtc":"06:16","timestampUtc":"2026-10-07T06:16:55.826Z","trx":"IC-7300"}
+    ],
+    "devices": []
+  },
+  "deleted_logs": []
+}
